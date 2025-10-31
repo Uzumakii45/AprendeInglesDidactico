@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Multi-Tool Suite",
+  "description": "An application showcasing multiple Gemini API features, including a gamified English learning experience, an AI-powered image editor, and a real-time voice conversation agent.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
